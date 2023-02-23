@@ -6,6 +6,7 @@
 <p>Is a code that change the text in
        to the Line of a word document
        or a different format of the code 
+<sub>html</sub>
 </p>
 <sup>html</sup>
     
