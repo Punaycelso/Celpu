@@ -2,7 +2,7 @@
 <!DUCTYPE! html>
 <html>
 <head>
-<title>WORD BOLD MAKING</title>
+   <title>WORD BOLD MAKING</title>
 </head>
 <body>
 <p>Is a code that  <sub>change</sub> the text into the Line of a word document
