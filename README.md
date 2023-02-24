@@ -9,5 +9,6 @@
 or a different format of the <sup>html code</sup>
 </h1>
 <p>the program code is [bold],{sub,sup,}</p>
+<p>using (h1) the text becomes bold</p>
 </body>
 </html>
