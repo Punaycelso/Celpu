@@ -2,7 +2,7 @@
 <!DUCTYPE! html>
 <html>
 <head>
-   <b>WORD BOLD MAKING PROGRAM</b>
+   <title>WORD BOLD MAKING PROGRAM</title>
 </head>
 <body>
 <h1>Welcome to the programming</h1>
