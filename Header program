@@ -1,12 +1,12 @@
 # Celpu
-<DOCTYPE! html>
+<DOCTYPE!html>
 <html>
 <head>
-   " Program of html   "
+<h> " Program of html   "</h>
 </head>
 <body>
   <h1>header one</h1>
   <h2>header two</h2>
-</head>
-</head>
+</body>
+</html>
    
