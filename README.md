@@ -2,7 +2,7 @@
 <!DUCTYPE! html>
 <html>
 <head>
-   <sub>WORD BOLD MAKING PROGRAM </sub>"sub at the bead"
+ WORD BOLD MAKING PROGRAM "sub at the bead"
 </head>
 <body>
 <h1>Welcome to the programming h1</h1>
