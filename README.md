@@ -4,6 +4,7 @@
 <head>
  WORD BOLD MAKING PROGRAM "sub at the bead"
 </head>
+<title>Program</title>
 <body>
 <h1>Welcome to the programming h1</h1>
 <p>Is a code that  <sub>change</sub> the text into the Line of a word document
